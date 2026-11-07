@@ -33,21 +33,11 @@ I'm interested in how data moves, how it's transformed, and how we can build rel
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-44546A?style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<div align="center">
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,java,postgres,mysql,docker,git,github,spring&theme=dark&perline=8)](https://skillicons.dev)
 
-### Tools & Frameworks
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+</div>
 
 ### Concepts I'm Exploring
 `Data Pipelines` `ETL/ELT` `Data Warehousing` `Data Modeling` `Workflow Orchestration` `Containerization`
@@ -64,42 +54,6 @@ I'm currently working on a personal data engineering project to put my knowledge
 My focus is on understanding the end-to-end data engineering process, from ingestion and transformation to storage and orchestration.
 
 *More details and a repository coming soon!*
-
----
-
-## 📂 Featured Projects
-
-### 🛒 E-commerce Data Warehouse Pipeline
-**Python | SQL | PostgreSQL | Pandas**
-
-An academic data warehousing project focused on building an ETL pipeline and designing a dimensional data model for e-commerce data.
-
-- Developed reusable Python ingestion scripts to process **13 datasets across 6 file formats**.
-- Implemented SQL transformations for data cleaning, standardization, and deduplication.
-- Built **6 dimension tables and 2 fact tables**.
-- Implemented **Slowly Changing Dimensions (Type 1 & Type 2)**.
-
-🔗 [View Project Repository](https://github.com/3CSE/dwh_finalproject_3CSE_group_3)
-
-### 🎓 UST ARCH — Software Engineering Client Project
-**Java | Spring Boot | PostgreSQL**
-
-A collaborative software engineering project involving backend development for a research management platform.
-
-- Built REST APIs for research group management and invitations.
-- Implemented adviser and editor matching workflows.
-- Developed audit logging with filtering and pagination.
-- Collaborated in an Agile team using Jira.
-
-🔒 *Private academic repository*
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🏅 **Data Engineer Certificate** — DataCamp (2026)
-- 🎓 **Dean's Lister** — AY 2023–2024 to AY 2025–2026
-- 🌟 **DOST-SEI Junior Level Science Scholarship** — 2025
 
 ---
 
