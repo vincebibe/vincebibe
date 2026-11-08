@@ -6,9 +6,6 @@
 ### Aspiring Data Engineer | Computer Science Student
 
 🎓 BS Computer Science @ University of Santo Tomas  
-📍 Philippines
-
-*Learning, building, and figuring things out — one pipeline at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincebibe)
 [![GitHub](https://img.shields.io/badge/GitHub-vincebibe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vincebibe)
